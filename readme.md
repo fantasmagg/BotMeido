@@ -15,6 +15,9 @@ This Python script combines speech recognition, text-to-speech, and email manage
    ```bash
    pip install Speechrecognition pyttsx3 google-api-python-client google-auth-oauthlib google-auth-httplib2 openai
    ```
+    ```bash
+   pip install openai==0.28
+   ```
 2. **Google API Credentials**: Follow the Google API Console documentation to set up a project with the Gmail API enabled. Download your credentials and save them as `token.json` in the project directory.
 3. **OpenAI API Key**: Obtain an API key from OpenAI. Save this key in a file named `secretkey.txt`.
 4. **Audio Device**: Ensure you have a working microphone set up on your system for speech recognition.
