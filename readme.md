@@ -13,7 +13,7 @@ This Python script combines speech recognition, text-to-speech, and email manage
 
 1. **Dependencies**: Ensure you have Python 3.6+ installed on your machine. Install the necessary Python libraries by running:
    ```bash
-   pip install Speechrecognition pyttsx3 google-api-python-client google-auth-oauthlib google-auth-httplib2 openai
+   pip install Speechrecognition pyttsx3 google-api-python-client google-auth-oauthlib google-auth-httplib2
    ```
     ```bash
    pip install openai==0.28
